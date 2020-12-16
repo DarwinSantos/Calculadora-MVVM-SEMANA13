@@ -1,0 +1,17 @@
+C:\Users\ASUS\Desktop\Multiplataforma\calculatorMVVM\Xamarin.Forms-MVVM-Calculator\AddingMachine\bin\Debug\AddingMachine.dll
+C:\Users\ASUS\Desktop\Multiplataforma\calculatorMVVM\Xamarin.Forms-MVVM-Calculator\AddingMachine\bin\Debug\AddingMachine.pdb
+C:\Users\ASUS\Desktop\Multiplataforma\calculatorMVVM\Xamarin.Forms-MVVM-Calculator\AddingMachine\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\ASUS\Desktop\Multiplataforma\calculatorMVVM\Xamarin.Forms-MVVM-Calculator\AddingMachine\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\ASUS\Desktop\Multiplataforma\calculatorMVVM\Xamarin.Forms-MVVM-Calculator\AddingMachine\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\ASUS\Desktop\Multiplataforma\calculatorMVVM\Xamarin.Forms-MVVM-Calculator\AddingMachine\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\ASUS\Desktop\Multiplataforma\calculatorMVVM\Xamarin.Forms-MVVM-Calculator\AddingMachine\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\ASUS\Desktop\Multiplataforma\calculatorMVVM\Xamarin.Forms-MVVM-Calculator\AddingMachine\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\ASUS\Desktop\Multiplataforma\calculatorMVVM\Xamarin.Forms-MVVM-Calculator\AddingMachine\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\ASUS\Desktop\Multiplataforma\calculatorMVVM\Xamarin.Forms-MVVM-Calculator\AddingMachine\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\ASUS\Desktop\Multiplataforma\calculatorMVVM\Xamarin.Forms-MVVM-Calculator\AddingMachine\obj\Debug\AddingMachine.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Multiplataforma\calculatorMVVM\Xamarin.Forms-MVVM-Calculator\AddingMachine\obj\Debug\AddingMachine.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Multiplataforma\calculatorMVVM\Xamarin.Forms-MVVM-Calculator\AddingMachine\obj\Debug\AddingMachine.App.xaml.g.cs
+C:\Users\ASUS\Desktop\Multiplataforma\calculatorMVVM\Xamarin.Forms-MVVM-Calculator\AddingMachine\obj\Debug\AddingMachine.AddingMachinePage.xaml.g.cs
+C:\Users\ASUS\Desktop\Multiplataforma\calculatorMVVM\Xamarin.Forms-MVVM-Calculator\AddingMachine\obj\Debug\AddingMachine.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Multiplataforma\calculatorMVVM\Xamarin.Forms-MVVM-Calculator\AddingMachine\obj\Debug\AddingMachine.dll
+C:\Users\ASUS\Desktop\Multiplataforma\calculatorMVVM\Xamarin.Forms-MVVM-Calculator\AddingMachine\obj\Debug\AddingMachine.pdb
